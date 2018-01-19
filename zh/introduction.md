@@ -1,23 +1,23 @@
-# Welcome
+# 欢迎
 
-Welcome to the documentation for the Phalcon framework.
+欢迎使用费尔康框架文档（Phalcon framework）。
 
-## Mission
+## 目标
 
-Our mission is to offer developers an advanced, feature rich tool, which they can use to develop powerful applications with low server consumption and high performance.
+我们的目标是向开发者们提供一个高级的、功能丰富的工具，他们可以使用这些工具开发出具有低服务器消耗和高性能的功能强大的应用程序。
 
-## What is Phalcon
+## 什么是费尔康
 
-Phalcon is an open source full stack framework for PHP, written as a C-extension. Phalcon is optimized for high performance. Its unique architecture allows the framework to always be memory resident, offering its functionality whenever its needed, without expensive file stats and file reads that traditional PHP frameworks employ.
+费尔康是一个的开源的全栈式PHP框架，使用C语言开发PHP扩展包。费尔康是一个性能高度优化的框架。它独特的体系结构允许框架运行过程中始终驻留在内存中，当需要用到时可以调用他的功能，而不需要像传统PHP框架那样去消耗高昂的资源的文件计算和文件读取。
 
-## Usage
+## 使用
 
-Developers do not need to know the C language to use Phalcon. Its interface is exposed as PHP classes under the `Phalcon` namespace, ready to be used.
+开发者们不需要了解C月宴就能够使用费尔康。它的所有接口都是在费尔康空间名下通过PHP类的方式以供使用。
 
-Phalcon is loosely coupled, allowing developers to use only the objects that they need as glue components based in the needs of their applications.
+费尔康是个松耦合式的，允许开发者根据他们的应用程序的需求去决定如何去构建结构。
 
 <div class="alert alert-danger">
     <p>
-        The translation of the documentation is driven by enthusiasts and contributors. We welcome your participation in the translation effort with new translations and/or corrections. The translations are handled in <a href="https://github.com/phalcon/docs">Github</a> for English, and <a href="https://crowdin.com/project/phalcon-documentation">Crowdin</a> for other languages
-    </p>
+        文档的翻译是由志愿者贡献。我们欢迎参加新的翻译和修正工作。翻译在Github上进行。 <a href="https://github.com/phalcon/docs">Github</a> 英语版 , 和 <a href="https://crowdin.com/project/phalcon-documentation">Crowdin</a> 其他语言
+    </p>
 </div>
